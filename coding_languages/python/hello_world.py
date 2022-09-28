@@ -1,1 +1,1 @@
-print("Hello World")
+print("Hello my anime friends!!")
